@@ -1,7 +1,0 @@
-{
-    "hardware_name": "H200-SXM-141GBx8",
-    "implementation": "nvidia",
-    "device": "cuda",
-    "framework": "tensorrt",
-    "run_config": "default"
-}
